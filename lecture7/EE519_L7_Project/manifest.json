@@ -1,0 +1,29 @@
+{
+  "audio_clips": [
+    {
+      "name": "vowel_a_normal",
+      "path": "EE519_L7_Project/audio/vowel_a_normal.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "voiced",
+        "vowel",
+        "normal"
+      ],
+      "notes": "Sustained 'aaaa' at normal loudness with silence before/after"
+    },
+    {
+      "name": "sentence_normal",
+      "path": "EE519_L7_Project/audio/sentence_normal.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "voiced",
+        "sentence",
+        "normal"
+      ],
+      "notes": "Using a sentence to see all changes."
+    }
+  ],
+  "notes": []
+}
