@@ -23,6 +23,122 @@
         "normal"
       ],
       "notes": "Using a sentence to see all changes."
+    },
+    {
+      "name": "vowel_a_normal",
+      "path": "EE519_L7_Project\\audio\\vowel_a_normal.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "voiced",
+        "vowel",
+        "normal"
+      ],
+      "notes": "Sustained 'aaaa' at normal loudness with silence before/after"
+    },
+    {
+      "name": "vowel_a_soft",
+      "path": "EE519_L7_Project\\audio\\vowel_a_soft.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "voiced",
+        "vowel",
+        "soft"
+      ],
+      "notes": "Sustained 'aaaa' at soft loudness with silence before/after"
+    },
+    {
+      "name": "vowel_a_soft",
+      "path": "EE519_L7_Project\\audio\\vowel_a_soft.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "voiced",
+        "vowel",
+        "soft"
+      ],
+      "notes": "Sustained 'aaaa' at soft loudness with silence before/after"
+    },
+    {
+      "name": "sentence_slow",
+      "path": "EE519_L7_Project\\audio\\sentence_slow.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "voiced",
+        "sentence",
+        "slow"
+      ],
+      "notes": "I am taking a speech AI course, spoken slowly"
+    },
+    {
+      "name": "sentence_fast",
+      "path": "EE519_L7_Project\\audio\\sentence_fast.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "voiced",
+        "sentence",
+        "fast"
+      ],
+      "notes": "I am taking a speech AI course, spoken fast"
+    },
+    {
+      "name": "fricative",
+      "path": "EE519_L7_Project\\audio\\fricative.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "unvoiced",
+        "fricative"
+      ],
+      "notes": "shhhh"
+    },
+    {
+      "name": "stop",
+      "path": "EE519_L7_Project\\audio\\stop.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "voiced",
+        "stop"
+      ],
+      "notes": "pa pa pa pa"
+    },
+    {
+      "name": "silence",
+      "path": "EE519_L7_Project\\audio\\silence.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "silence"
+      ],
+      "notes": "silence with background noise"
+    },
+    {
+      "name": "sentence_normal",
+      "path": "EE519_L7_Project\\audio\\sentence_normal.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "voiced",
+        "sentence",
+        "normal"
+      ],
+      "notes": "Using a sentence to see all changes."
+    },
+    {
+      "name": "sentence_normal",
+      "path": "EE519_L7_Project\\audio\\sentence_normal.wav",
+      "fs": 16000,
+      "duration_s": 4.0,
+      "tags": [
+        "voiced",
+        "sentence",
+        "normal"
+      ],
+      "notes": "Using a sentence to see all changes."
     }
   ],
   "notes": []
