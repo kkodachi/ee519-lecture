@@ -1,0 +1,207 @@
+{
+  "course": "EE519",
+  "lecture": "10A",
+  "created_utc": "2026-02-11T23:00:39",
+  "clips": [
+    {
+      "filename": "student_vowel_a.wav",
+      "label": "vowel_a",
+      "fs": 16000,
+      "notes": "steady /a/",
+      "added_utc": "2026-02-11T23:00:39",
+      "selections": {
+        "analysis_segments": {
+          "seg1": {
+            "t0": 0.5,
+            "t1": 1.2,
+            "s0": 8000,
+            "s1": 19200,
+            "win_ms": 25.0,
+            "hop_ms": 10.0,
+            "N": 400,
+            "H": 160,
+            "frame_range": [
+              48,
+              120
+            ]
+          },
+          "vowel_mid": {
+            "t0": 1.0,
+            "t1": 1.5,
+            "s0": 16000,
+            "s1": 24000,
+            "win_ms": 25.0,
+            "hop_ms": 10.0,
+            "N": 400,
+            "H": 160,
+            "frame_range": [
+              98,
+              150
+            ]
+          }
+        }
+      }
+    },
+    {
+      "filename": "student_vowel_i.wav",
+      "label": "vowel_i",
+      "fs": 16000,
+      "notes": "steady /i/",
+      "added_utc": "2026-02-11T23:00:41",
+      "selections": {}
+    },
+    {
+      "filename": "student_vowel_u.wav",
+      "label": "vowel_u",
+      "fs": 16000,
+      "notes": "steady /u/",
+      "added_utc": "2026-02-11T23:00:43",
+      "selections": {}
+    },
+    {
+      "filename": "student_fricative_s.wav",
+      "label": "fricative_s",
+      "fs": 16000,
+      "notes": "steady /s/",
+      "added_utc": "2026-02-11T23:00:45",
+      "selections": {}
+    },
+    {
+      "filename": "student_sentence.wav",
+      "label": "sentence",
+      "fs": 16000,
+      "notes": "short sentence",
+      "added_utc": "2026-02-11T23:00:48",
+      "selections": {
+        "analysis_segments": {
+          "sentence_mid": {
+            "t0": 1.0,
+            "t1": 1.5,
+            "s0": 16000,
+            "s1": 24000,
+            "win_ms": 25.0,
+            "hop_ms": 10.0,
+            "N": 400,
+            "H": 160,
+            "frame_range": [
+              98,
+              150
+            ]
+          }
+        }
+      }
+    },
+    {
+      "filename": "student_vowel_a.wav",
+      "label": "vowel_a",
+      "fs": 16000,
+      "notes": "steady /a/",
+      "added_utc": "2026-02-11T23:02:47",
+      "selections": {}
+    },
+    {
+      "filename": "student_vowel_i.wav",
+      "label": "vowel_i",
+      "fs": 16000,
+      "notes": "steady /i/",
+      "added_utc": "2026-02-11T23:02:49",
+      "selections": {}
+    },
+    {
+      "filename": "student_vowel_u.wav",
+      "label": "vowel_u",
+      "fs": 16000,
+      "notes": "steady /u/",
+      "added_utc": "2026-02-11T23:02:51",
+      "selections": {}
+    },
+    {
+      "filename": "student_vowel_a.wav",
+      "label": "vowel_a",
+      "fs": 16000,
+      "notes": "steady /a/",
+      "added_utc": "2026-02-11T23:03:00",
+      "selections": {}
+    },
+    {
+      "filename": "student_vowel_i.wav",
+      "label": "vowel_i",
+      "fs": 16000,
+      "notes": "steady /i/",
+      "added_utc": "2026-02-11T23:03:02",
+      "selections": {}
+    },
+    {
+      "filename": "student_vowel_u.wav",
+      "label": "vowel_u",
+      "fs": 16000,
+      "notes": "steady /u/",
+      "added_utc": "2026-02-11T23:03:04",
+      "selections": {}
+    },
+    {
+      "filename": "student_fricative_s.wav",
+      "label": "fricative_s",
+      "fs": 16000,
+      "notes": "steady /s/",
+      "added_utc": "2026-02-11T23:03:07",
+      "selections": {}
+    },
+    {
+      "filename": "student_sentence.wav",
+      "label": "sentence",
+      "fs": 16000,
+      "notes": "short sentence",
+      "added_utc": "2026-02-11T23:03:10",
+      "selections": {}
+    },
+    {
+      "filename": "student_vowel_a.wav",
+      "label": "vowel_a",
+      "fs": 16000,
+      "notes": "steady /a/",
+      "added_utc": "2026-02-11T23:03:16",
+      "selections": {}
+    },
+    {
+      "filename": "student_vowel_a.wav",
+      "label": "vowel_a",
+      "fs": 16000,
+      "notes": "steady /a/",
+      "added_utc": "2026-02-11T23:03:32",
+      "selections": {}
+    },
+    {
+      "filename": "student_vowel_i.wav",
+      "label": "vowel_i",
+      "fs": 16000,
+      "notes": "steady /i/",
+      "added_utc": "2026-02-11T23:03:34",
+      "selections": {}
+    },
+    {
+      "filename": "student_vowel_u.wav",
+      "label": "vowel_u",
+      "fs": 16000,
+      "notes": "steady /u/",
+      "added_utc": "2026-02-11T23:03:36",
+      "selections": {}
+    },
+    {
+      "filename": "student_fricative_s.wav",
+      "label": "fricative_s",
+      "fs": 16000,
+      "notes": "steady /s/",
+      "added_utc": "2026-02-11T23:03:38",
+      "selections": {}
+    },
+    {
+      "filename": "student_sentence.wav",
+      "label": "sentence",
+      "fs": 16000,
+      "notes": "short sentence",
+      "added_utc": "2026-02-11T23:03:41",
+      "selections": {}
+    }
+  ]
+}

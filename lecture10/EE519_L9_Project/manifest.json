@@ -1,0 +1,137 @@
+{
+  "clips": [
+    {
+      "filename": "S01_sentence_normal.wav",
+      "label": "sentence",
+      "notes": "normal pace sentence",
+      "added_time": 1771098719.1571693
+    },
+    {
+      "filename": "S02_sentence_fast.wav",
+      "label": "sentence",
+      "notes": "fast pace",
+      "added_time": 1771098741.384367
+    },
+    {
+      "filename": "S03_sentence_slow.wav",
+      "label": "sentence",
+      "notes": "slow pace",
+      "added_time": 1771098764.3967166
+    },
+    {
+      "filename": "V01_vowel_a.wav",
+      "label": "vowel",
+      "notes": "sustained /a/",
+      "added_time": 1771098801.428077
+    },
+    {
+      "filename": "V02_vowel_i.wav",
+      "label": "vowel",
+      "notes": "sustained /i/",
+      "added_time": 1771098808.564617
+    },
+    {
+      "filename": "V03_vowel_u.wav",
+      "label": "vowel",
+      "notes": "sustained /u/",
+      "added_time": 1771098815.2745583
+    },
+    {
+      "filename": "F01_fric_s.wav",
+      "label": "fricative",
+      "notes": "sustained /s/",
+      "added_time": 1771098828.313809,
+      "frame_selections": {
+        "win_ms": 25,
+        "hop_ms": 10,
+        "n_samples": 400,
+        "hop_samples": 160,
+        "vowel_frames": [
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158,
+          159,
+          160,
+          161,
+          162,
+          163,
+          164,
+          165,
+          166,
+          167,
+          168,
+          169,
+          170,
+          171,
+          172,
+          173,
+          174,
+          175,
+          176,
+          177,
+          178
+        ],
+        "fricative_frames": [
+          149,
+          150,
+          151,
+          152,
+          153,
+          154,
+          155,
+          156,
+          157,
+          158
+        ],
+        "silence_frames": [
+          0,
+          1,
+          2,
+          3
+        ],
+        "vowel_ranges": [
+          [
+            1.5,
+            1.8
+          ]
+        ],
+        "fricative_ranges": [
+          [
+            1.5,
+            1.6
+          ]
+        ],
+        "silence_ranges": [
+          [
+            0.0,
+            0.05
+          ]
+        ]
+      }
+    },
+    {
+      "filename": "F02_fric_sh.wav",
+      "label": "fricative",
+      "notes": "sustained /sh/",
+      "added_time": 1771098837.1535954
+    },
+    {
+      "filename": "Z01_silence.wav",
+      "label": "silence",
+      "notes": "room noise",
+      "added_time": 1771098846.8348203
+    }
+  ],
+  "meta": {
+    "created": 1771098719.1571658,
+    "course": "EE519",
+    "lecture": 9
+  }
+}
